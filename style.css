@@ -1,0 +1,38 @@
+
+body {
+  background-color: #121A2C;
+  color: white;
+  font-family: 'Tajawal', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #1A1F36;
+  padding: 20px;
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+nav ul li a {
+  color: #00AEEF;
+  text-decoration: none;
+}
+.product {
+  background-color: #2C2F48;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+button {
+  background-color: #5C4D91;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
